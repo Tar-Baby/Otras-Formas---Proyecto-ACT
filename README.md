@@ -12,9 +12,15 @@ Se recopilaron fotografías de distintos cantones de Ecuador para posteriormente
 
 ## Imágenes
 
-
-<img src=![1](https://user-images.githubusercontent.com/78127380/146769692-8f355ad6-7358-480f-b98a-74bbcede857c.png)  width="30%" />
-
+<img src="https://user-images.githubusercontent.com/78127380/146769692-8f355ad6-7358-480f-b98a-74bbcede857c.png"  width="50%" /> 
+<img src="https://user-images.githubusercontent.com/78127380/146769987-0babd75c-45d3-488e-aebe-192a4da2edbb.png"  width="50%" />
+<img src="https://user-images.githubusercontent.com/78127380/146770061-488ff781-9590-4205-860b-df15b592ddb1.png"  width="50%" />
+<img src="https://user-images.githubusercontent.com/78127380/146770071-f8341e94-dfa8-4a3e-99f2-bc76a35a629e.png"  width="50%" />
+<img src="https://user-images.githubusercontent.com/78127380/146770080-dff09dec-8182-431e-b9d5-fcd9e7442bae.png"  width="50%" />
+<img src="https://user-images.githubusercontent.com/78127380/146770093-f3e47b7a-2a6d-44c6-ba95-9886f2516695.png"  width="50%" />
+<img src="https://user-images.githubusercontent.com/78127380/146770107-bbb92b21-e1cf-4ee5-b1f1-16708c15d4df.png"  width="50%" />
+<img src="https://user-images.githubusercontent.com/78127380/146770123-8bd3e704-339d-4236-a6f9-80e73cbef99f.png"  width="50%" />
+<img src="https://user-images.githubusercontent.com/78127380/146770134-54a697b8-10cd-4f6f-8635-a05a8f71000d.png"  width="50%" />
 
 ## Instrucciones para Descargar el Libro
 Haz clic en este enlace de Google Drive para descargar el libro en formato PDF: https://drive.google.com/drive/folders/11pk2R8dHKLup2_azIItDjSrgV-aF3Dol?usp=sharing
