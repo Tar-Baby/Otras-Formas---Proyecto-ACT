@@ -4,8 +4,7 @@ Libro digital realizado como proyecto final para el curso Arte, Ciencia y Tecnol
 
 ## Introducción
 
-Ejemplo MI LIBRO (version preeliminar):  [Otras Formas.pdf](https://github.com/MacchinaGirl/Otras-Formas---Proyecto-ACT/files/7738340/Otras.Formas.pdf)
-(arrastrar documento pdf aqui)
+"Otras Formas" es el nombre que utilizamos para referirnos a aquellas dimensiones hermosas y desconocidas donde naturaleza y residuos de intervención humana se han fusionado para dar origen a nuevos ecosistemas, quizás hasta nuevas formas de vida.
 
 ## Metodología
 
