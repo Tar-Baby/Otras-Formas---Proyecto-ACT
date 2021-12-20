@@ -1,18 +1,21 @@
-# Otras Formas - Proyecto ACT
-Libro digital
+# Otras Formas: Realidades Alternas Soñadas Por Una Red Neuronal
 
-## Seccion 1 Introduccion
+Libro digital realizado como proyecto final para el curso Arte, Ciencia y Tecnología de la Universidad San Francisco de Quito.
 
-###1.1
+## Introducción
 
 Ejemplo MI LIBRO (version preeliminar):  [Otras Formas.pdf](https://github.com/MacchinaGirl/Otras-Formas---Proyecto-ACT/files/7738340/Otras.Formas.pdf)
 (arrastrar documento pdf aqui)
 
-## Imagenes
+## Metodología
+
+Se recopilaron fotografías de distintos cantones de Ecuador para posteriormente procesarlas y generar nuevas imágenes a partir de ellas. El programa que se usó principalmente para  generar las imágenes fue [Deep Dream Generator](https://deepdreamgenerator.com/generator).
+
+## Imágenes
 
 
-WEONAAA
 
+## Descarga el Libro Aquí
 
 
 #  Example Readme for Project
