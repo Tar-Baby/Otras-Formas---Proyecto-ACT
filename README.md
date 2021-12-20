@@ -13,6 +13,8 @@ Se recopilaron fotografías de distintos cantones de Ecuador para posteriormente
 ## Imágenes
 
 
+<img src=![1](https://user-images.githubusercontent.com/78127380/146769692-8f355ad6-7358-480f-b98a-74bbcede857c.png)  width="30%" />
+
 
 ## Instrucciones para Descargar el Libro
 Haz clic en este enlace de Google Drive para descargar el libro en formato PDF: https://drive.google.com/drive/folders/11pk2R8dHKLup2_azIItDjSrgV-aF3Dol?usp=sharing
