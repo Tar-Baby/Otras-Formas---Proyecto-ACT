@@ -14,7 +14,8 @@ Se recopilaron fotografías de distintos cantones de Ecuador para posteriormente
 
 
 
-## Descarga el Libro Aquí
+## Instrucciones para Descargar el Libro
+
 
 
 #  Example Readme for Project
@@ -40,3 +41,4 @@ BAJATE MI LIBRO AKI: [Chapter_1(1).pdf](https://github.com/linomp/test_readme_pr
 3. Para convertir la imagen en un link `[<img src="link-de-imagen"  width="30%" />](link-externo)`:
 
     [<img src="https://user-images.githubusercontent.com/40581019/146621919-d1f98361-09be-4bfc-ba80-debcec54b5c9.png"  width="10%" />](https://www.youtube.com/watch?v=dfDbYIqlHD8&list=WL&index=1)
+    
